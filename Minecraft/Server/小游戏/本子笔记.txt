@@ -3,3 +3,6 @@
 开挂，如果你对此判决有争议，请加群：541100688
 
 违反规则，你将在活动结束后被unban
+
+/minecraft:give @a wooden_sword{Unbreakable:1,Damage:100000,display:{Name:'[{"text":"残破的木剑","italic":false,"color":"dark_purple"}]',Lore:['[{"text":"","italic":false}]','[{"text":"一把残破的木剑，已经基本上不能使用了。","italic":false,"color":"yellow"}]','[{"text":"        --第②次小活动纪念品","italic":false,"color":"yellow"}]']},Enchantments:[{id:unbreaking,lvl:10}],HideFlags:6,AttributeModifiers:[{AttributeName:"generic.attack_damage",Amount:2,Operation:0,UUID:[I;-12125,29539,163138,-59078],Name:"generic.attack_damage"}]} 1
+
